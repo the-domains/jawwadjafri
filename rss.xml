@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[JawwadJafri]]></title>
         <description><![CDATA[JawwadJafri]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jawwadjafri/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 04:34:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 18 Apr 2016 04:49:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jawwadjafri/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Moving from Vanity Metrics to Strategic Insights]]></title>
+            <description><![CDATA[<article><h1>Moving from Vanity Metrics to Strategic Insights</h1><p>The massive growth in digital adoption in Pakistan has caught the marketers by surprise. Brands are looking to catch up with the consumers in digital age but are neither prepared nor committed to master this beast. With the highest reach amongst all media, it is shocking to realize that only 1-2% of the total marketing spent of an organization goes to digital.</p></article>]]></description>
+            <link>https://thegrid.ai/jawwadjafri/moving-from-vanity-metrics-to-strategic-insights/index.html</link>
+            <guid isPermaLink="false">98e37e91-ac57-4d23-a6c2-79185237e7ef</guid>
+            <pubDate>Mon, 18 Apr 2016 04:49:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mobile Voting Through Missed Calls Can Transform Democracy in Pakistan]]></title>
             <description><![CDATA[<article><h1>Mobile Voting Through Missed Calls Can Transform Democracy in Pakistan</h1><h2>The challenge is to come up with a voting solution that is universal and doable for every Pakistani</h2><p>For over five decades, elections in Pakistan have been marred by violence, malpractice and allegations of fraud. There are inexplicable delays in announcing the results and in many instances, complaints of duplicate and unaccountable votes. The experiments with electronic ink have also resulted in very limited success making the verification of the votes even more dubious.</p></article>]]></description>
-            <link>undefinedmobile-voting-through-missed-calls-can-transform-democracy-i/index.html</link>
+            <link>https://thegrid.ai/jawwadjafri/mobile-voting-through-missed-calls-can-transform-democracy-i/index.html</link>
             <guid isPermaLink="false">985d00db-dfab-4a42-a566-c84d466747d9</guid>
             <pubDate>Mon, 18 Apr 2016 04:34:24 GMT</pubDate>
         </item>
