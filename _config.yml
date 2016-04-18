@@ -1,6 +1,6 @@
 name: JawwadJafri
 favicon: null
-layout_spectrum: 0.8803201508708298
+layout_spectrum: 1
 typography_spectrum: 0.029871803242713213
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.6441458177287132
+  brandStrength: 1
   lightness: 0.7536457497626543
-  saturation: 0.15480564162135124
+  saturation: 0
   rhythmicContrast: 0.25882704136893153
 purpose: []
